@@ -11,4 +11,5 @@ Features
 • Multiplication
 • Division
 • Clear button
+• Backspace Button
 • Easy User-Friendly Interface
