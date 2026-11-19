@@ -2,10 +2,12 @@ Python-GUI-Calculator
 
 Name: Chuck Kirby M. Capulong
 
-Description
+Description:
+
 Calculus is a simple calculator application using Python and Tkinter that is made for quick and easy everyday math. It has big clear buttons so anyone can type numbers and solve math problems fast. 
 
-Features
+Features:
+
 • Addition
 • Subtraction
 • Multiplication
