@@ -9,9 +9,15 @@ Calculus is a simple calculator application using Python and Tkinter that is mad
 Features:
 
 • Addition
+
 • Subtraction
+
 • Multiplication
+
 • Division
+
 • Clear button
+
 • Backspace Button
+
 • Easy User-Friendly Interface
